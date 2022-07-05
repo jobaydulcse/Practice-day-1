@@ -1,0 +1,31 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orng {
+    color: orange;
+}
+
+section {
+    display: flex;
+
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 2%;
+}
+
+.half-width img {
+    width: 95%;
+}
+
+.half-width text {
+    width: 80%;
+}
